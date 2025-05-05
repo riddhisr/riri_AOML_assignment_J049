@@ -1,0 +1,31 @@
+Hello!
+
+I want to share a few reminders about the exams:
+
+Exam format:
+* It is a practical based exam where you have full access to the internet.
+* There will be 4 questions (i.e. 4 datasets). 2 Tabular, 1 Text, 1 Images.
+* The first question will be compulsory and for 40 marks. Rest are 30 marks questions, you can pick 2 of those 3.
+* For each question, you will have the dataset and few COMPULSORY tasks. But it doesn’t mean you don’t have to do the OBVIOUSLY NECESSARY steps if they are not mentioned.
+* For example, if you have a classification dataset and I have asked to use some specific preprocessing, and ML model, you still need to perform EDA, split the data into train and test while maintaining the label distribution, pick a metric which is not insensitive to class imbalance, etc.
+* Basically - all steps of the ML life-cycle are to be covered even when not mentioned explicitly.
+* You only have to submit the ipynb file. Make a new one for each question. Name it properly.
+* Use Kaggle so that you can leverage the versioning and background execution features to combat poor internet connection.
+* You have access to the internet - use it wisely. Prepare some utility scripts before hand which you can repurpose.
+* Make sure to clearly place comments or markdowm cells to demarcate the different tasks and steps in your solution.
+* Clearly display the intermediate outputs, plots and model results - you will get partial marks if the outputs are missing in the notebook.
+* Don’t cheat and share files with your friends during the exam - obviously. You have access to the internet - what else could you possibly need.
+
+
+
+PRO TIP:
+Be well prepared for tabular and text related tasks. Based on the conversation I have had with the exam dept, I am apprehensive about how they will provide the dataset to you.
+The tabular and text dataset will anyway be lightweight - so you shouldn’t face any difficulty with uploading them to google drive or Kaggle.
+But the Image dataset is relatively bigger in size, maybe the college internet will take some extra time to upload them on Kaggle. So be careful, prepare before hand for such scenarios. 
+I have given the hack already - focus on tabular and text problems.
+
+
+All the best 🚀
+
+
+sir's notion link: https://mananjhaveri.notion.site/Machine-Learning-Sem-6-2025-6555f4678e6d44f78ff99febbe4ce807
